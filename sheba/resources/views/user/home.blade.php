@@ -399,13 +399,13 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center">
-                    <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/" style="width: 100px; height: 100px;">
+                    <img class="img-fluid bg-light rounded-circle p-2 mx-auto mb-4" src="img/azyth.jpeg" style="width: 100px; height: 100px;">
                     <div class="testimonial-text rounded text-center p-4">
-                        <p> </p>
+                        <p>Capsule</p>
                         <p> </p>
                         <h5 class="mb-1"> </h5>
-                        <span class="fst-italic"> </span>
-                        <p><button type="submit" class="btn btn-primary"></button></p>
+                        <span class="fst-italic">150</span>
+                        <p><button type="submit" class="btn btn-primary">Buy</button></p>
                     </div>
                 </div>
             </div>
