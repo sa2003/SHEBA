@@ -7,5 +7,6 @@ Used Framework -> Laravel
 
 ## SCREENSHOTS
 
-![Login](![Screenshot (2103)](https://github.com/sa2003/SHEBA/assets/86835889/8f24c96d-2e05-4cc0-a825-238d79818e42))
+### LOGIN
+(![Screenshot (2103)](https://github.com/sa2003/SHEBA/assets/86835889/8f24c96d-2e05-4cc0-a825-238d79818e42))
 ![Screenshot 2](![Screenshot (2104)](https://github.com/sa2003/SHEBA/assets/86835889/c0e581ed-5099-47ca-95a7-c2bba47d3b8d))
