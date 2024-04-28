@@ -10,7 +10,15 @@ Used Framework -> Laravel
 ### Shahed Abdullah
 ### Computer Science & Engineering, BRAC Uniersity
 ![WhatsApp Image 2024-04-29 at 12 38 04 AM](https://github.com/sa2003/SHEBA/assets/86835889/8d40778c-a06a-4742-84c7-e1765e78e186)
-
+### Opshora Nowshin Eshika
+### Computer Science & Engineering, BRAC Uniersity
+![341359652_937343630940973_5655729442905698984_n (2)](https://github.com/sa2003/SHEBA/assets/86835889/8ae6cac8-6f93-49f2-9b0a-533b7b2033c8)
+### Monjur Ahmed
+### Computer Science & Engineering, BRAC Uniersity
+![421765471_2049000262153947_1020016442884318657_n](https://github.com/sa2003/SHEBA/assets/86835889/acc52ea9-177f-43a3-8ed7-446ddb355eb9)
+### Munira Akter Mysha
+### Computer Science & Engineering, BRAC Uniersity
+![357370901_2233794837008533_2873575362926830230_n](https://github.com/sa2003/SHEBA/assets/86835889/38d1b22a-64f7-4c01-9ffb-307e3a14c52c)
 
 ## SCREENSHOTS
 
