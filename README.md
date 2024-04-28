@@ -5,7 +5,7 @@ A Hospital Management System.
 Used Framework -> Laravel
 # DESCRIPTION
 
-## Screenshots
+## SCREENSHOTS
 
 ![Screenshot 1](/path/to/screenshot1.png)
 ![Screenshot 2](/path/to/screenshot2.png)
