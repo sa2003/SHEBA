@@ -4,7 +4,7 @@
 A Hospital Management System.
 Used Framework -> Laravel
 # DESCRIPTION
-
+This was a group project. We Divided our works an 4 parts and decided to finish this project in 1-2 months. THe Project is well nourished and have error handling. 
 # CONTRIBUTORS
 4 Members contributed in this Project.
 ### Shahed Abdullah
