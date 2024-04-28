@@ -6,6 +6,10 @@ Used Framework -> Laravel
 # DESCRIPTION
 
 # CONTRIBUTORS
+4 Members contributed in this Project.
+## Shahed Abdullah
+### Computer Science & Engineering, BRAC Uniersity
+![WhatsApp Image 2024-04-29 at 12 38 04 AM](https://github.com/sa2003/SHEBA/assets/86835889/19b2da1c-d217-4a9f-bccc-42c388e9d36c)
 
 ## SCREENSHOTS
 
